@@ -10,11 +10,11 @@ A Software Engineer that loves everything related to back-end, cryptocurrencies 
 
 ### Donate
 
-- ![image](./img/bitcoin.png) <b>BTC : </b> : bc1qxy9a9s3h8qrul8kf33e23seszj4mwj22hyylvt <br>
-- ![image](./img/ethereum.png) <b>ETH : </b> : 0x86C477b7fdE341504E52F1fE8796648574F98436 <br>
-- ![image](./img/litecoin.png) <b>LTC : </b> : ltc1qsn9c0seke5npaug9q2vl2famkfh97j9h6q0mx5 <br>
-- ![image](./img/dogecoin.png) <b>DOGE : </b> : DE5BFyqsiUheDijHAbj1HrNegF6xbmDdL1 <br>
-- ![image](./img/binance-coin.png) <b>BNB : </b> : bnb1222ejdlf8zvg3sj89axwy6utt04zxvgpc0tpd0 <br>
+- ![image](./img/bitcoin.png) <b>BTC : </b>  bc1qxy9a9s3h8qrul8kf33e23seszj4mwj22hyylvt <br>
+- ![image](./img/ethereum.png) <b>ETH : </b>  0x86C477b7fdE341504E52F1fE8796648574F98436 <br>
+- ![image](./img/litecoin.png) <b>LTC : </b>  ltc1qsn9c0seke5npaug9q2vl2famkfh97j9h6q0mx5 <br>
+- ![image](./img/dogecoin.png) <b>DOGE : </b>  DE5BFyqsiUheDijHAbj1HrNegF6xbmDdL1 <br>
+- ![image](./img/binance-coin.png) <b>BNB : </b>  bnb1222ejdlf8zvg3sj89axwy6utt04zxvgpc0tpd0 <br>
 
 <hr>
 
