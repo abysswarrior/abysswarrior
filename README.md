@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello Friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="mailto:mehran.safaripour@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mehran-safaripour/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+### WHOAMI
+
+A Software Engineer that loves everything related to back-end, cryptocurrencies and Blockchain. And also, I like to contribute to open-source and volunteer projects.
+
+<hr>
+
+### Donate
+
+BTC : bc1qxy9a9s3h8qrul8kf33e23seszj4mwj22hyylvt <br>
+ETH : 0x86C477b7fdE341504E52F1fE8796648574F98436 <br>
+LTC : ltc1qsn9c0seke5npaug9q2vl2famkfh97j9h6q0mx5 <br>
+DOGE : DE5BFyqsiUheDijHAbj1HrNegF6xbmDdL1 <br>
+BNB : bnb1222ejdlf8zvg3sj89axwy6utt04zxvgpc0tpd0 <br>
+
+<hr>
+
+### I'm Currently Working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b1ng-b0ng&repo=crypto-funds-portfolio)](https://github.com/b1ng-b0ng/crypto-funds-portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b1ng-b0ng&repo=binance-pnl-checker)](https://github.com/b1ng-b0ng/binance-pnl-checker)
 
 <!--
-**b1ng-b0ng/b1ng-b0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>
+  <img src=https://github-readme-stats.vercel.app/api?username=b1ng-b0ng&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hatamiarash7&layout=compact&bg_color=191b1f&title_color=36beb6&text_color=fff&hide=html,css&langs_count=4 />
+</p>
+
 -->
