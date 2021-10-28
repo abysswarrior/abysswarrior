@@ -19,7 +19,7 @@ A Software Engineer that loves everything related to back-end, cryptocurrencies 
 <hr>
 
 ### I'm Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b1ng-b0ng&repo=crypto-funds-portfolio)](https://github.com/b1ng-b0ng/crypto-funds-portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b1ng-b0ng&repo=binance-pnl-checker)](https://github.com/b1ng-b0ng/binance-pnl-checker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b1ng-b0ng&repo=crypto-funds-portfolio)](https://github.com/b1ng-b0ng/crypto-funds-portfolio)
 
 <!--
 <hr>
