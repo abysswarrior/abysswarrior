@@ -6,6 +6,7 @@
 
 A Software Engineer that loves everything related to back-end, cryptocurrencies and Blockchain. And also, I like to contribute to open-source and volunteer projects.
 
+
 <hr>
 
 ### Donate
@@ -18,9 +19,9 @@ A Software Engineer that loves everything related to back-end, cryptocurrencies 
 
 <hr>
 
-### I'm Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysswarrior&repo=crypto-funds-portfolio)](https://github.com/abysswarrior/crypto-funds-portfolio)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysswarrior&repo=promethe-crypto)](https://github.com/abysswarrior/promethe-crypto)
 
+### I'm Currently Working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysswarrior&repo=crypto-funds-portfolio&theme=dracula)](https://github.com/abysswarrior/crypto-funds-portfolio)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysswarrior&repo=promethe-crypto&theme=dracula)](https://github.com/abysswarrior/promethe-crypto)
 
 
 <!--
