@@ -2,7 +2,7 @@
 ### WHOAMI
 <a href="mailto:mehran.safaripour@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mehran-safaripour/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-A Software Engineer that loves everything related to back-end, cryptocurrencies and Blockchain. And also, I like to contribute to open-source and volunteer projects.
+A Software Engineer that loves everything related to back-end, cryptocurrencies and Blockchain. And also, I like open-source and volunteer projects.
 
 
 <hr>
