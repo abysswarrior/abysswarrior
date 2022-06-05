@@ -7,7 +7,7 @@ A Software Engineer that loves everything related to back-end, cryptocurrencies 
 
 <hr>
 
-### Donate
+### Donation
 
 - ![image](./img/bitcoin.png) <b>BTC : </b>  bc1qxy9a9s3h8qrul8kf33e23seszj4mwj22hyylvt <br>
 - ![image](./img/ethereum.png) <b>ETH : </b>  0x86C477b7fdE341504E52F1fE8796648574F98436 <br>
