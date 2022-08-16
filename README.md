@@ -24,7 +24,7 @@ A Software Engineer that loves everything related to back-end, cryptocurrencies 
 
 
 ### I'm Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysswarrior&repo=crypto-funds-portfolio&theme=dracula)](https://github.com/abysswarrior/crypto-funds-portfolio)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysswarrior&repo=palantir&theme=dracula)](https://github.com/abysswarrior/palantir)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysswarrior&repo=crypto-funds-portfolio&theme=dracula)](https://github.com/abysswarrior/crypto-funds-portfolio)   
 
 <!--
 <hr>
