@@ -4,7 +4,7 @@
 
 A Software Engineer that loves everything related to back-end, cryptocurrencies and Blockchain. And also, I like open-source and volunteer projects.
 
-
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,redis,vim,docker,idea,heroku,bootstrap)](https://skillicons.dev)
 <hr>
 
 ### Donation
