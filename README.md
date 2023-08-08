@@ -2,11 +2,11 @@
 
    )
   ((\  
-  ===        ___ ___                     __  __              
- /_|_\     ---- / _ \_______  __ _  ___ / /_/ /  ___ 
-   |     ----- / ___/ __/ _ \/  ' \/ -_) __/ _ \/ -_)
-  \|/  _______/_/  /_/  \___/_/_/_/\__/\__/_//_/\__/
-
+  ===        ___ ___   __                     _ _      __             _         
+ /_|_\     ---- / _ | / /  __ _____ ___     ---| | /| / /__ _________(_)__  ____
+   |     ----- / __ |/ _ \/ // (_-<(_-<    ----| |/ |/ / _ `/ __/ __/ / _ \/ __/
+  \|/  _______/_/ |_/_.__/\_, /___/___/  ______|__/|__/\_,_/_/ /_/ /_/\___/_/   
+                         /___/         
 <a href="https://readme-typing-svg.demolab.com/demo/">
 <img src="https://readme-typing-svg.demolab.com/?lines=>%20Back-End%20developer;>%20software%20engineer;>%204%2B%20years%20of%20coding%20experience;>%20Always%20learning%20new%20things&font=Fira%20Code&width=440&height=45&color=f75c7e&background=161B22FF&vCenter=true&pause=1000&size=15" /></a>
 
