@@ -8,7 +8,7 @@
   \|/  _______/_/  /_/  \___/_/_/_/\__/\__/_//_/\__/
 
 <a href="https://readme-typing-svg.demolab.com/demo/">
-<img src="https://readme-typing-svg.demolab.com/?lines=>%20Back-End%20developer;>%20software%20engineer;>%2010%2B%20years%20of%20coding%20experience;>%20Always%20learning%20new%20things&font=Fira%20Code&width=440&height=45&color=f75c7e&background=161B22FF&vCenter=true&pause=1000&size=15" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=>%20Back-End%20developer;>%20software%20engineer;>%204%2B%20years%20of%20coding%20experience;>%20Always%20learning%20new%20things&font=Fira%20Code&width=440&height=45&color=f75c7e&background=161B22FF&vCenter=true&pause=1000&size=15" /></a>
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
