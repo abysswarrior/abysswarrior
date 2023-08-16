@@ -17,6 +17,7 @@
 ├─▣ Interested in Mythology
 ├─▣ Now, I'm seeking jobs abroad
 ├─▣ <a href="https://promethe.dev/">My Portfolio</a>
+├─▣ <a href="./status.md">My GitHub Scores</a>
 │
 └───────────────────────────────▰▰▰
 
