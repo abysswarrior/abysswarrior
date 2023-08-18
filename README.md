@@ -25,6 +25,7 @@
 │
 ├─◈ <a href="https://github.com/abysswarrior/packend">packend</a> ---> under development
 ├─◈ <a href="https://github.com/abysswarrior/pwitter">pwitter</a>
+├─◈ <a href="https://github.com/abysswarrior/pBay">pBay</a> ---> under development
 ├─◈ <a href="https://github.com/abysswarrior/crypto-funds-portfolio">crypto funds portfolio</a>
 ├─◈ <a href="https://github.com/abysswarrior/palantir">palantir</a>
 ├─◈ <a href="https://github.com/abysswarrior/binance-pnl-checker">binance pnl checker</a>
