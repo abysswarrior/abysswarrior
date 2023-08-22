@@ -32,6 +32,7 @@
 ├─◈ <a href="https://github.com/abysswarrior/binance-pnl-checker">binance pnl checker</a>
 ├─◈ <a href="https://github.com/abysswarrior/my-ui-collection">my UI collection</a>
 ├─◈ <a href="https://github.com/abysswarrior/docker-vault">docker vault</a>
+├─◈ <a href="https://github.com/abysswarrior/base">base</a>
 │
 └───────────────────────────────▰▰▰
 
