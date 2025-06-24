@@ -7,9 +7,8 @@
    |     ----- / __ |/ _ \/ // (_-<(_-<    ----| |/ |/ / _ `/ __/ __/ / _ \/ __/
   \|/  _______/_/ |_/_.__/\_, /___/___/  ______|__/|__/\_,_/_/ /_/ /_/\___/_/   
                          /___/         
-<a href="https://readme-typing-svg.demolab.com/demo/">
-<img src="https://readme-typing-svg.demolab.com/?lines=>%20Back-End%20developer;>%20software%20engineer;>%204%2B%20years%20of%20coding%20experience;>%20Always%20learning%20new%20things&font=Fira%20Code&width=440&height=45&color=f75c7e&background=161B22FF&vCenter=true&pause=1000&size=15" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F71F5E&width=435&lines=Site+Reliability+Engineering;Software+Engineer" alt="Typing SVG" /></a>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ SRE
